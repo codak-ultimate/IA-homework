@@ -8,8 +8,8 @@
 
 #Entrenamiento
 
-|Lista de Jugadores | id-entrenamiento | Tipo de entrenamiento | Duración | Lista de Acciones |Propósito |
+|Lista de Jugadores | id-entrenamiento | Tipo de entrenamiento | Duración | Lista de Acciones | Propósito |
 
 #Acciones
 
-| num-atleta | Hora | Fecha | Lugar | id-entrenamiento |
+| Número de Jugador | Hora | Fecha | Lugar | id-entrenamiento |
